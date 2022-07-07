@@ -14,7 +14,6 @@
 ```
 Famvazpom@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 Soy estudiante de Ingenieria en Datos en la Universidad del Caribe
 📝 Tengo un gran interes por el desarrollo de videojuegos
 🌟 Lenguajes principales: Python
