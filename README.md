@@ -22,9 +22,9 @@ Famvazpom@github
 
 |                                                                     Estadisticas                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=famvazpom&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=famvazpom&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=famvazpom&theme=algolia)                    | 
+| ![Noe's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=famvazpom&theme=react-dark&hide_border=true&area=true) |
+| ![Noe's github stats](https://github-readme-stats.vercel.app/api?username=famvazpom&show_icons=true&theme=algolia)              | 
+| ![Noe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=famvazpom&theme=algolia)                    | 
     
 
 |                                                                                                      Estrellas                                                                                                       |                                                           Lenguajes mas usados                                                           |      
