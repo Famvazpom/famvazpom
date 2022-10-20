@@ -77,10 +77,8 @@ Famvazpom@github
 
 ------
 
+### Distintivos de creedly
 
 <!--START_SECTION:badges-->
-
-[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/67f11b22-8743-401e-9abb-c8cdf4f2470a "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
-
 Creditos del template: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
