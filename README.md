@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=GameDev+Python+Student;Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=GameDev;Software+Engineer;Data+Engineer;Python+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://avatars.githubusercontent.com/u/23343285?v=4" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="200" />
@@ -45,7 +45,7 @@ Famvazpom@github
       <a href="#"><img alt="Django" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     </li>
 </ul>
-### 🧰 Frameworks y Librerias
+###  🧰 Frameworks y Librerias
 
 <ul>
     <li>
@@ -67,7 +67,6 @@ Famvazpom@github
 
 |                                                                     Estadisticas                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Noe's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=famvazpom&theme=react-dark&hide_border=true&area=true) |
 | ![Noe's github stats](https://github-readme-stats.vercel.app/api?username=famvazpom&show_icons=true&theme=algolia)              |
 | ![Noe's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=famvazpom&theme=algolia)                    |
 
