@@ -111,4 +111,11 @@ Famvazpom@github
 ### Creedly Bandges
 
 <!--START_SECTION:badges-->
+
+[![Associate Cloud Engineer Certification](https://images.credly.com/size/110x110/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](http://www.credly.com/badges/4cfb35e8-feeb-49cd-89e9-43cfb0978422 "Associate Cloud Engineer Certification")
+[![Build Infrastructure with Terraform on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png)](http://www.credly.com/badges/47f0cc47-2aae-4fe4-86de-31e6c77021c1 "Build Infrastructure with Terraform on Google Cloud Skill Badge")
+[![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/006d4f2e-c4f9-4e7a-a2c0-cc777e283d52 "Develop Your Google Cloud Network Skill Badge")
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](http://www.credly.com/badges/e9a9df04-6a71-436e-a2fd-627a9b644a01 "Set Up an App Dev Environment on Google Cloud Skill Badge")
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/da91dd37-677f-4df6-9c8f-f0dda9731991 "Implement Load Balancing on Compute Engine Skill Badge")
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/333e94bf-4ed4-4e2f-bcc5-412ef122709f "Microsoft Certified: Azure Fundamentals")
 <!--END_SECTION:badges-->
