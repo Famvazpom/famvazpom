@@ -39,5 +39,5 @@ jobs:
         # uses: pemtajo/badge-readme@3836d7866ca0765b3b4ff8f0f826037657a5f434
         uses: pemtajo/badge-readme@2.3.0
         with:
-          CREDLY_USER: noe-vazquez-pompa # optional, default is ${{ github.actor }}
+          CREDLY_USER: famvazpom # optional, default is ${{ github.actor }}
           # The sort type for return credly badges [RECENT/POPULAR]
