@@ -17,7 +17,7 @@
 ```
 Famvazpom@github
 -------------------------
-📚 I'm a Data Engineer passionate on the Software Development.
+📚 I'm aSoftware Engineer/ AI Engineer / Tech Lead passionate on the Software Development.
 📝 On my free time i'm learning about Game Dev and also Gaming.
 🌟 Monster Hunter Fan
 
